@@ -1,3 +1,4 @@
+# Juan Sanchez
 # Encoder function
 def encode(password):
     encoded_password = ""
